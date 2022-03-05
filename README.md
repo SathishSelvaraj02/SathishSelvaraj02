@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sathish Selvaraj
-- 👀 I’m interested in HTML, CSS, Javascript
+- 👀 I’m interested in C, C++, HTML, CSS, Javascript.
 - 🌱 I’m currently learning Full Stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at sathishselvaraj0210@gmail.com, 9994373095
